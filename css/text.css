@@ -1,0 +1,12 @@
+h4{
+    color: var(--title-color);
+}
+h6{
+    color: var(--text-color);
+}
+span{
+    color: var(--title-color);
+}
+p{
+    color: var(--text-color);
+}

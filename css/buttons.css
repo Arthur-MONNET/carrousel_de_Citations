@@ -1,0 +1,12 @@
+
+button{
+    appearance: none;
+    border: none;
+    background-color: #5f5cc4;
+    color: var(--text-color);
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    font-size: 15px;
+
+}
